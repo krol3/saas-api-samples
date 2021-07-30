@@ -113,3 +113,7 @@ env.bak/
 venv.bak/
 
 .DS_Store
+
+## nodejs
+*/node_modules/*
+
